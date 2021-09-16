@@ -1,0 +1,40 @@
+{
+
+  "item.mcmod.coconut": "Coconut",
+
+  "item.mcmod.lavian_swords": "Lavian Sword",
+  "item.mcmod.lavian_pickaxe": "Lavian Pickaxe",
+  "item.mcmod.lavian_axe": "Lavian Axe",
+  "item.mcmod.lavian_hoe": "Lavian Hoe",
+  "item.mcmod.lavian_shovel": "Lavian Shovel",
+  "item.mcmod.lavian": "Lavian",
+  "item.mcmod.lavian_hammer": "Lavian hamer",
+  "item.mcmod.SpecialItem": "Exp go",
+
+
+
+
+
+  "block.mcmod.lavian_ore": "Lavian ore",
+  "block.mcmod.lavian_block": "lavian block",
+  "block.mcmod.explode_block": "Explode block",
+
+  "block.mcmod.banana_crop": "Banana",
+
+  "block.mcmod.lightning_channeler": "Lightning channeler",
+  "screen.mcmod.lightning_channeler": "Lightning channeler",
+
+  "block.mcmod.coconut_log": "Coconut log",
+  "block.mcmod.coconut_planks": "Coconut planks",
+  "block.mcmod.coconut_wood": "Coconut wood",
+  "block.mcmod.stripped_coconut_log": "Stripped coconut log",
+  "block.mcmod.stripped_coconut_wood": "Stripped coconut wood",
+  "block.mcmod.coconut_sapling": "Coconut sapling",
+  "block.mcmod.coconut_leaves": "Coconut leaves",
+  "block.mcmod.lavianide": "Lavianide",
+  "block.mcmod.zombide": "Zombide",
+
+  "tooltip.lavina_hammer.hold_shift": "\u00A77Hold \u00A7eShift \u00A77for More Information",
+
+  "itemGroup.McModTab": "Mc Mod"
+}
